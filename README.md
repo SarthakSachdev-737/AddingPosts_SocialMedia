@@ -1,4 +1,8 @@
-# React + Vite
+  Author - Sarthak Sachdev
+  <br>
+  # Project focused on the working of addition and deletion of posts on social media using react
+ 
+ React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
