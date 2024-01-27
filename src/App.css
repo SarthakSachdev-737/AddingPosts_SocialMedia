@@ -1,0 +1,58 @@
+.SocialMediaContainer{
+  display: flex;
+}
+
+.HFContainer{
+ width: 100%;
+}
+
+/* .s-header{
+  width: 100%;
+} */
+
+.s-sidebar{
+  height: 100vh;
+}
+
+.s-footer{
+  margin-top: 100px;
+}
+
+.s-post{
+  width: 40vw;
+  margin: 30px 40px;
+}
+
+.s-createPost{
+  width: 40vw;
+  margin: 30px 40px;
+}
+
+.s-tag{
+  margin-right: 5px;
+}
+
+.s-reactions{
+  margin-top: 15px;
+  margin-bottom: -2.5px;
+}
+
+.s-delBadge{
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.s-noPostMsg{
+text-align: center;
+margin-top: 120px;
+margin-bottom: 100px;
+color: gray;
+}
+
+.s-spinner{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+
+
